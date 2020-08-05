@@ -1,65 +1,65 @@
-"","REGION","AGLOMERADO","CH04","PEA","desocupados","tasa_desocupados"
-"1",Gran Buenos Aires,Ciudad de Buenos Aires,1,869023,54681,6.29223852533247
-"2",Gran Buenos Aires,Ciudad de Buenos Aires,2,805676,61210,7.59734682428172
-"3",Gran Buenos Aires,Partidos del GBA,1,3302138,346275,10.4863879098935
-"4",Gran Buenos Aires,Partidos del GBA,2,2481196,280396,11.3008404011614
-"5",Noroeste,S. del Estero - La Banda,1,93699,3665,3.91146116820884
-"6",Noroeste,S. del Estero - La Banda,2,70971,4899,6.90281946147018
-"7",Noroeste,Jujuy - Palpala,1,83234,5846,7.02357209794075
-"8",Noroeste,Jujuy - Palpala,2,77758,5031,6.47007381877106
-"9",Noroeste,Gran Catamarca,1,56427,4132,7.32273556985131
-"10",Noroeste,Gran Catamarca,2,44417,3474,7.82132967107189
-"11",Noroeste,Salta,1,164076,14850,9.05068382944489
-"12",Noroeste,Salta,2,136829,16237,11.8666364586455
-"13",Noroeste,La Rioja,1,49812,1838,3.68987392596162
-"14",Noroeste,La Rioja,2,42502,2782,6.54557432591407
-"15",Noroeste,Gran Tucuman - T. Viejo,1,222124,20906,9.41186004213863
-"16",Noroeste,Gran Tucuman - T. Viejo,2,183341,18560,10.1232130292733
-"17",Nordeste,Posadas,1,88076,2971,3.37322312548254
-"18",Nordeste,Posadas,2,71876,1621,2.2552729701152
-"19",Nordeste,Gran Resistencia,1,98456,4675,4.74831396766068
-"20",Nordeste,Gran Resistencia,2,81863,8721,10.6531644332604
-"21",Nordeste,Corrientes,1,93036,5430,5.83645040629434
-"22",Nordeste,Corrientes,2,67369,2959,4.39222787929166
-"23",Nordeste,Formosa,1,56451,1986,3.51809533932083
-"24",Nordeste,Formosa,2,29603,1451,4.90153025031247
-"25",Cuyo,Gran Mendoza,1,270502,11957,4.42030003475021
-"26",Cuyo,Gran Mendoza,2,229902,24799,10.7867700150499
-"27",Cuyo,San Luis - El Chorrillo,1,60703,1265,2.0839167751182
-"28",Cuyo,San Luis - El Chorrillo,2,46812,1889,4.03529009655644
-"29",Cuyo,Gran San Juan,1,135245,4542,3.35834966172502
-"30",Cuyo,Gran San Juan,2,95883,3500,3.65028211466058
-"31",Pampeana,Gran La Plata,1,230664,16429,7.12248118475358
-"32",Pampeana,Gran La Plata,2,186910,15878,8.49499759242416
-"33",Pampeana,Bahia Blanca - Cerri,1,81314,6696,8.23474432447057
-"34",Pampeana,Bahia Blanca - Cerri,2,60878,3485,5.72456388186208
-"35",Pampeana,Gran Rosario,1,344641,32368,9.39180190401026
-"36",Pampeana,Gran Rosario,2,263723,20341,7.71301706715
-"37",Pampeana,Gran Santa Fe,1,125846,7267,5.77451806175802
-"38",Pampeana,Gran Santa Fe,2,106532,5477,5.14117823752488
-"39",Pampeana,Gran Parana,1,71154,2982,4.1909098574922
-"40",Pampeana,Gran Parana,2,52155,2554,4.89694180807209
-"41",Pampeana,Gran Cordoba,1,397351,31549,7.93983153433614
-"42",Pampeana,Gran Cordoba,2,331934,38006,11.4498665397338
-"43",Pampeana,Concordia,1,39312,3789,9.63827838827839
-"44",Pampeana,Concordia,2,27609,2311,8.370458908327
-"45",Pampeana,Santa Rosa - Toay,1,29116,1707,5.86275587305949
-"46",Pampeana,Santa Rosa - Toay,2,26598,2909,10.9369125498158
-"47",Pampeana,Mar del Plata - Batan,1,167052,18325,10.9696381964897
-"48",Pampeana,Mar del Plata - Batan,2,156268,17610,11.2691017994727
-"49",Pampeana,Rio Cuarto,1,46396,2032,4.37968790412967
-"50",Pampeana,Rio Cuarto,2,36046,2667,7.39887920989846
-"51",Pampeana,San Nicolas - Villa Constitucion,1,50632,4928,9.73297519355348
-"52",Pampeana,San Nicolas - Villa Constitucion,2,35998,3644,10.1227845991444
-"53",Patagonica.,Cdro. Rivadavia - R.Tilly,1,57467,1854,3.22619938399429
-"54",Patagonica.,Cdro. Rivadavia - R.Tilly,2,39891,1425,3.57223433857261
-"55",Patagonica.,Neuquen - Plottier,1,80114,4663,5.82045585041316
-"56",Patagonica.,Neuquen - Plottier,2,59309,3353,5.65344214200206
-"57",Patagonica.,Rio Gallegos,1,28286,1473,5.20752315633175
-"58",Patagonica.,Rio Gallegos,2,22123,1762,7.96456176829544
-"59",Patagonica.,Ushuaia - Rio Grande,1,41544,4506,10.8463316002311
-"60",Patagonica.,Ushuaia - Rio Grande,2,30177,2299,7.61838486264374
-"61",Patagonica.,Rawson - Trelew,1,36586,5171,14.1338216804242
-"62",Patagonica.,Rawson - Trelew,2,29520,2004,6.78861788617886
-"63",Patagonica.,Viedma - Carmen de Patagones.,1,18693,1036,5.54218156529182
-"64",Patagonica.,Viedma - Carmen de Patagones.,2,14864,536,3.60602798708288
+"REGION","AGLOMERADO","CH04","PEA","desocupados","tasa_desocupados"
+"Gran Buenos Aires","Ciudad de Buenos Aires","Varon",869023,54681,6.29223852533247
+"Gran Buenos Aires","Ciudad de Buenos Aires","Mujer",805676,61210,7.59734682428172
+"Gran Buenos Aires","Partidos del GBA","Varon",3302138,346275,10.4863879098935
+"Gran Buenos Aires","Partidos del GBA","Mujer",2481196,280396,11.3008404011614
+"Noroeste","S. del Estero - La Banda","Varon",93699,3665,3.91146116820884
+"Noroeste","S. del Estero - La Banda","Mujer",70971,4899,6.90281946147018
+"Noroeste","Jujuy - Palpala","Varon",83234,5846,7.02357209794075
+"Noroeste","Jujuy - Palpala","Mujer",77758,5031,6.47007381877106
+"Noroeste","Gran Catamarca","Varon",56427,4132,7.32273556985131
+"Noroeste","Gran Catamarca","Mujer",44417,3474,7.82132967107189
+"Noroeste","Salta","Varon",164076,14850,9.05068382944489
+"Noroeste","Salta","Mujer",136829,16237,11.8666364586455
+"Noroeste","La Rioja","Varon",49812,1838,3.68987392596162
+"Noroeste","La Rioja","Mujer",42502,2782,6.54557432591407
+"Noroeste","Gran Tucuman - T. Viejo","Varon",222124,20906,9.41186004213863
+"Noroeste","Gran Tucuman - T. Viejo","Mujer",183341,18560,10.1232130292733
+"Nordeste","Posadas","Varon",88076,2971,3.37322312548254
+"Nordeste","Posadas","Mujer",71876,1621,2.2552729701152
+"Nordeste","Gran Resistencia","Varon",98456,4675,4.74831396766068
+"Nordeste","Gran Resistencia","Mujer",81863,8721,10.6531644332604
+"Nordeste","Corrientes","Varon",93036,5430,5.83645040629434
+"Nordeste","Corrientes","Mujer",67369,2959,4.39222787929166
+"Nordeste","Formosa","Varon",56451,1986,3.51809533932083
+"Nordeste","Formosa","Mujer",29603,1451,4.90153025031247
+"Cuyo","Gran Mendoza","Varon",270502,11957,4.42030003475021
+"Cuyo","Gran Mendoza","Mujer",229902,24799,10.7867700150499
+"Cuyo","San Luis - El Chorrillo","Varon",60703,1265,2.0839167751182
+"Cuyo","San Luis - El Chorrillo","Mujer",46812,1889,4.03529009655644
+"Cuyo","Gran San Juan","Varon",135245,4542,3.35834966172502
+"Cuyo","Gran San Juan","Mujer",95883,3500,3.65028211466058
+"Pampeana","Gran La Plata","Varon",230664,16429,7.12248118475358
+"Pampeana","Gran La Plata","Mujer",186910,15878,8.49499759242416
+"Pampeana","Bahia Blanca - Cerri","Varon",81314,6696,8.23474432447057
+"Pampeana","Bahia Blanca - Cerri","Mujer",60878,3485,5.72456388186208
+"Pampeana","Gran Rosario","Varon",344641,32368,9.39180190401026
+"Pampeana","Gran Rosario","Mujer",263723,20341,7.71301706715
+"Pampeana","Gran Santa Fe","Varon",125846,7267,5.77451806175802
+"Pampeana","Gran Santa Fe","Mujer",106532,5477,5.14117823752488
+"Pampeana","Gran Parana","Varon",71154,2982,4.1909098574922
+"Pampeana","Gran Parana","Mujer",52155,2554,4.89694180807209
+"Pampeana","Gran Cordoba","Varon",397351,31549,7.93983153433614
+"Pampeana","Gran Cordoba","Mujer",331934,38006,11.4498665397338
+"Pampeana","Concordia","Varon",39312,3789,9.63827838827839
+"Pampeana","Concordia","Mujer",27609,2311,8.370458908327
+"Pampeana","Santa Rosa - Toay","Varon",29116,1707,5.86275587305949
+"Pampeana","Santa Rosa - Toay","Mujer",26598,2909,10.9369125498158
+"Pampeana","Mar del Plata - Batan","Varon",167052,18325,10.9696381964897
+"Pampeana","Mar del Plata - Batan","Mujer",156268,17610,11.2691017994727
+"Pampeana","Rio Cuarto","Varon",46396,2032,4.37968790412967
+"Pampeana","Rio Cuarto","Mujer",36046,2667,7.39887920989846
+"Pampeana","San Nicolas - Villa Constitucion","Varon",50632,4928,9.73297519355348
+"Pampeana","San Nicolas - Villa Constitucion","Mujer",35998,3644,10.1227845991444
+"44","Cdro. Rivadavia - R.Tilly","Varon",57467,1854,3.22619938399429
+"44","Cdro. Rivadavia - R.Tilly","Mujer",39891,1425,3.57223433857261
+"44","Neuquen - Plottier","Varon",80114,4663,5.82045585041316
+"44","Neuquen - Plottier","Mujer",59309,3353,5.65344214200206
+"44","Rio Gallegos","Varon",28286,1473,5.20752315633175
+"44","Rio Gallegos","Mujer",22123,1762,7.96456176829544
+"44","Ushuaia - Rio Grande","Varon",41544,4506,10.8463316002311
+"44","Ushuaia - Rio Grande","Mujer",30177,2299,7.61838486264374
+"44","Rawson - Trelew","Varon",36586,5171,14.1338216804242
+"44","Rawson - Trelew","Mujer",29520,2004,6.78861788617886
+"44","Viedma - Carmen de Patagones.","Varon",18693,1036,5.54218156529182
+"44","Viedma - Carmen de Patagones.","Mujer",14864,536,3.60602798708288
